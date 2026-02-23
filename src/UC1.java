@@ -1,6 +1,3 @@
-import javax.xml.transform.Source;
-import java.util.*;
-
 class PalindromeCheckerApp {
     static void main() {
         System.out.println("Welcome to the Palindrome Checker Management System");
