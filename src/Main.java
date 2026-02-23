@@ -1,7 +1,7 @@
 import javax.xml.transform.Source;
 import java.util.*;
 
-class PalindromeCheckerApp {
+class UC1PalindromeCheckerApp {
     static void main() {
         System.out.println("Welcome to the Palindrome Checker Management System");
         System.out.println("Version : 1.0");
